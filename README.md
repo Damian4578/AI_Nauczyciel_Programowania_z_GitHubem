@@ -22,12 +22,47 @@ Lekcje są zapisywane w osobnych folderach z unikalnymi znacznikami czasu:
 ---
 
 ## 🗺️ Mapa Drogowa Nauki (Postęp)
-- [ ] 01. Wstęp i print()
-- [ ] 02. Zmienne i Typy Danych
-- [ ] 03. Operatory Matematyczne
-- [ ] 04. Pobieranie danych (input)
-- [ ] 05. Instrukcje Warunkowe (if/else)
-- [ ] ... (i kolejne etapy)
+# 🗺️ Mapa Drogowa Nauki Pythona (Postęp)
+
+Ten plik służy do śledzenia moich postępów w nauce. Każdy punkt to kolejna lekcja, którą Mentor AI wygenerował i zapisał w tym repozytorium.
+
+---
+
+## 🟢 ETAP 1: Fundamenty (Zrozumienie bazy)
+- [ ] **Lekcja 01: Wstęp i Funkcja `print()`** *Cel: Wyświetlanie komunikatów w konsoli.*
+- [ ] **Lekcja 02: Zmienne i Typy Danych** *Cel: Przechowywanie liczb (int, float) i tekstu (str).*
+- [ ] **Lekcja 03: Operatory Matematyczne** *Cel: Podstawowe obliczenia i operacje logiczne.*
+- [ ] **Lekcja 04: Interakcja (`input`)** *Cel: Pobieranie danych od użytkownika w czasie rzeczywistym.*
+
+---
+
+## 🟡 ETAP 2: Sterowanie Programem (Logika)
+- [ ] **Lekcja 05: Instrukcje Warunkowe (`if`, `elif`, `else`)** *Cel: Tworzenie programów podejmujących decyzje.*
+- [ ] **Lekcja 06: Pętla `while`** *Cel: Powtarzanie kodu, dopóki warunek jest spełniony.*
+- [ ] **Lekcja 07: Pętla `for`** *Cel: Automatyzacja zadań na zbiorach danych.*
+- [ ] **Lekcja 08: Obsługa Błędów (`try`, `except`)** *Cel: Zapobieganie "wybuchaniu" programu przy błędach.*
+
+---
+
+## 🔵 ETAP 3: Przechowywanie Danych (Kolekcje)
+- [ ] **Lekcja 09: Listy (`list`)** *Cel: Zarządzanie wieloma elementami w jednej zmiennej.*
+- [ ] **Lekcja 10: Krotki i Zbiory (`tuple`, `set`)** *Cel: Praca z danymi niezmiennymi i unikalnymi.*
+- [ ] **Lekcja 11: Słowniki (`dict`)** *Cel: Przechowywanie danych w parach klucz-wartość.*
+
+---
+
+## 🟣 ETAP 4: Funkcje i Moduły (Porządek)
+- [ ] **Lekcja 12: Funkcje (`def`)** *Cel: Pisanie kodu wielokrotnego użytku.*
+- [ ] **Lekcja 13: Moduły i Biblioteki** *Cel: Korzystanie z gotowych narzędzi Pythona.*
+- [ ] **Lekcja 14: Praca z plikami** *Cel: Zapisywanie i odczytywanie danych z dysku.*
+
+---
+
+## 🔴 ETAP 5: Zaawansowane (OOP)
+- [ ] **Lekcja 15: Podstawy Klas i Obiektów** *Cel: Modelowanie rzeczywistych obiektów w kodzie.*
+
+---
+*Ostatnia aktualizacja: March 2026*
 
 ---
 
