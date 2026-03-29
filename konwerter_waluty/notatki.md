@@ -1,0 +1,1 @@
+Ten prosty skrypt pozwala na konwersję walut na podstawie aktualnych kursów. Kod składa się z listy słowników, gdzie każdy słownik przedstawia dane o walucie, a także funkcji, która pobiera kursy walut z zewnętrznego źródła i używa ich do konwersji.
