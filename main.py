@@ -7,8 +7,8 @@ from gtts import gTTS
 import pygame # do odtwarzania dźwięku
 
 # --- KONFIGURACJA ---
-GROQ_API_KEY = "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".strip()
-GITHUB_TOKEN = "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".strip()
+GROQ_API_KEY = "gsk_".strip()
+GITHUB_TOKEN = "ghp_".strip()
 REPO_NAME = "AI_Nauczyciel_Programowania_z_GitHubem"
 
 # Inicjalizacja klientów
