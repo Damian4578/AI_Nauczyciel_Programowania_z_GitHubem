@@ -1,0 +1,1 @@
+Wyjaśnienie zastosowania pętli w Pythonie i podstawowych przykładów kodu.**
