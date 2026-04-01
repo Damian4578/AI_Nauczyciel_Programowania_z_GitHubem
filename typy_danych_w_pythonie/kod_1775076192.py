@@ -1,0 +1,1 @@
+print("Wartość zmiennej: ", typ) # zastosowanie funkcji type()
