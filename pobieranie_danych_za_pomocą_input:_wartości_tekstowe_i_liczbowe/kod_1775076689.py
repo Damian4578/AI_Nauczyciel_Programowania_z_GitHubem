@@ -1,0 +1,1 @@
+print(input("Wpisz coś: ")) lub z typem danych np str(input(  )
