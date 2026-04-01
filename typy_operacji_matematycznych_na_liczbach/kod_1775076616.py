@@ -1,0 +1,1 @@
+print(1+1), print(5-2), print(10*3), print(20/4), print(10%2), print(3**2), print(10-2.5), print(5*2.5), print(3.14<2)
