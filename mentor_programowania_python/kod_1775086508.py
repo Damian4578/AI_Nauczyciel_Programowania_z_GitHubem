@@ -1,1 +1,0 @@
-Kod w Pythonie
