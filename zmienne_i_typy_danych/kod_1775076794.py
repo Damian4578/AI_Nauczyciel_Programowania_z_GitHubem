@@ -1,0 +1,1 @@
+komentarz = 'zmienne i typy danych', print('zmienne i typy danych') # nie jest to najbardziej optymalna forma, lecz może służyć  do przechowywania danych.
