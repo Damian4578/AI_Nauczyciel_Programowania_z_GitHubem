@@ -1,0 +1,1 @@
+własny kod
