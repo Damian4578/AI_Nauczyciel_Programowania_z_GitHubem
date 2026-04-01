@@ -1,0 +1,1 @@
+Zmienne_i.typy_danych
