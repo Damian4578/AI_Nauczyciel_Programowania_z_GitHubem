@@ -1,0 +1,1 @@
+Operatory, Operatory arydmentyczne, Operatory złączające, Operatory porównywające, Operatory asygnczne
