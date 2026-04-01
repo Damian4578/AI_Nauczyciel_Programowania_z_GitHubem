@@ -1,0 +1,1 @@
+print(a, type(a)) dla każdego zmiennego
