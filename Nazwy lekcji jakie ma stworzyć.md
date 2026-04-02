@@ -38,3 +38,32 @@ Oto mapa drogowa mojej nauki. Każdy z tych tematów zostanie omówiony przez Me
 
 ---
 *Wygenerowano przy pomocy Mentora AI (Groq Cloud + GitHub API)*
+# 🚀 Program Szkolenia Inżynieryjnego: Misja Mars
+
+## Moduł 1: Fundamenty Kontroli Lotu (Poziom: Rekrut)
+* **Lekcja 1: Logika Decyzyjna (IF/ELIF/ELSE)**
+    * *Temat:* Systemy podtrzymywania życia i progi alarmowe temperatury.
+* **Lekcja 2: Pętle i Powtarzalność (WHILE/FOR)**
+    * *Temat:* Odliczanie do startu (T-minus) i automatyczne sprawdzanie systemów przed odpaleniem silników.
+* **Lekcja 3: Funkcje i Moduły (DEF)**
+    * *Temat:* Tworzenie reużywalnych narzędzi do przeliczania jednostek (mile na kilometry, stopnie na radiany).
+
+## Moduł 2: Dynamika i Fizyka Programistyczna (Poziom: Operator)
+* **Lekcja 4: Prędkość i Przyspieszenie (Fizyka w Pythonie)**
+    * *Temat:* Obliczanie zużycia paliwa na sekundę (Delta-V) przy stałym ciągu.
+* **Lekcja 5: Listy i Słowniki (Struktury Danych)**
+    * *Temat:* Zarządzanie inwentarzem rakiety (ilość tlenu, żywności, części zamiennych).
+* **Lekcja 6: Obsługa Błędów (TRY/EXCEPT)**
+    * *Temat:* Co zrobić, gdy czujnik zwróci `None` lub `Error`? Procedury awaryjne.
+
+## Moduł 3: Nawigacja i Symulacja (Poziom: Inżynier Pokładowy)
+* **Lekcja 7: Biblioteki Math i Random**
+    * *Temat:* Symulacja turbulencji i obliczanie trajektorii przy użyciu funkcji trygonometrycznych ($sin, cos$).
+* **Lekcja 8: Operacje na Plikach (Zapis/Odczyt)**
+    * *Temat:* Zapisywanie logów z czarnej skrzynki rakiety do pliku `.log`.
+* **Lekcja 9: Wstęp do Obiektowości (Klasy/Obiekty)**
+    * *Temat:* Tworzenie wirtualnego modelu Rakiety (każda rakieta to obiekt z własną masą i paliwem).
+
+## Moduł 4: Finałowa Misja na Marsa (Poziom: Komandor)
+* **Lekcja 10: Wielowątkowość i Czas (Time/Async)**
+    * *Temat:* Jak kontrolować silnik i jednocześnie odbierać dane z radaru?
