@@ -1,1 +1,0 @@
-Kod_pętli_for
