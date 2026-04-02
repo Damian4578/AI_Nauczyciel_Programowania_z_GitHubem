@@ -1,0 +1,1 @@
+Kod_przykładowy_dla_zadania_1
